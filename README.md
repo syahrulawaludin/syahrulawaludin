@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://syahrulawaludin.medium.com/](https://syahrulawaludin.medium.com/)
 
-- 💬 Ask me about **Java**
+- 💬 I Also **UI/UX Design** Enthusiast
 
 - 📫 How to reach me **syahrul.awaludin@quatronema.co.id**
 
