@@ -1,7 +1,7 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 <h1 align="center">Hi 👋, I'm Syahrul Awaludin</h1>
 <h3 align="center">A passionate Developer & CMP Engineer from Indonesia</h3>
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/ width="250px" class+"text-center">
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/ width="250px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahrulawaludin&label=Profile%20views&color=0e75b6&style=flat" alt="syahrulawaludin" /> </p>
 
