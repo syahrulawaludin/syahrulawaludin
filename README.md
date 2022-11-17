@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Syahrul Awaludin</h1>
 <h3 align="center">A passionate Developer & CMP Engineer from Indonesia</h3>
-<img align="center" src="https://i.ibb.co/Zm1jRTq/coding.gif"/ width="250px">
+<img align="right" src="https://i.ibb.co/Zm1jRTq/coding.gif"/ width="250px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahrulawaludin&label=Profile%20views&color=0e75b6&style=flat" alt="syahrulawaludin" /> </p>
 
