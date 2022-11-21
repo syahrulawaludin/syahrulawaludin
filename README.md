@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahrulawaludin&label=Profile%20views&color=0e75b6&style=flat" alt="syahrulawaludin" /> </p>
 
-- 🔭 I’m currently working for a company **PT. Protonema**
+- 🔭 I’m working for a company **PT. Protonema**
 
 - 🌱 I’m currently learning **Java, React Native**
 
