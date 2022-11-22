@@ -7,7 +7,7 @@
 
 - 🔭 I’m working for a company **PT. Protonema**
 
-- 🌱 I’m currently learning **Java, React Native**
+- 🌱 I’m currently learning **Java, NodeJs**
 
 - 👨‍💻 All of my projects are available at [syahrulawaludin.github.io](syahrulawaludin.github.io)
 
