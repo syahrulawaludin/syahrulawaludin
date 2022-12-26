@@ -15,7 +15,7 @@
 
 - 🤩 I Also **UI/UX Design** Enthusiast
 
-- 📫 How to reach me **syahrul.awaludin@quatronema.co.id**
+- 📫 How to reach me **syahrul.awaludin@quatronema.co.id**/ **syahrul_awaludin_x@telkomsel.co.id**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/syahrul-awaludin-879ab8250/](https://www.linkedin.com/in/syahrul-awaludin-879ab8250/)
 
